@@ -23,6 +23,12 @@ After successfully completing a Highschool scientific curriculum in Yaounde (Cam
 <img align="left" alt="JIRA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <br />
 
+### Contact Me
+
+- Email: [elvisolembe1@gmail.com](mailto:elvisolembe1@gmail.com)
+- Github: [Github](https://github.com/MrOlmb)
+<br>
+
 
 
 ### 📈 Stats
