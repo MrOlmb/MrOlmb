@@ -34,8 +34,8 @@ After successfully completing a Highschool scientific curriculum in Yaounde (Cam
 ### 📈 Stats
 <!-- GitHub stats from https://github.com/MrOlmb/github-readme-stats -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MrOlmb&show_icons=true&theme=react&border_color=61dafb&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrOlmb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrOlmb&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrOlmb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </p>
 <!--
 **MrOlmb/MrOlmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
