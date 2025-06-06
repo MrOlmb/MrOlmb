@@ -33,9 +33,9 @@ After successfully completing a Highschool scientific curriculum in Yaounde (Cam
 
 ### 📈 Stats
 <!-- GitHub stats from https://github.com/MrOlmb/github-readme-stats -->
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrOlmb&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrOlmb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: stretch;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrOlmb&show_icons=true&theme=react&border_color=61dafb&hide_border=true" style="flex: 1; height: 200px; object-fit: cover; min-width: 300px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrOlmb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" style="flex: 1; height: 200px; object-fit: cover; min-width: 300px;" />
+</div>
 <!--
 **MrOlmb/MrOlmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
