@@ -2,7 +2,7 @@
 
 **`Programming Craftsman (Mobile / Web applications)`**
 
-After successfully completing a Highschool scientific curriculum in Yaounde (Cameroon), computing technologies seemed like the most interesting technologies to me (and they still are) , with a lot of potential and an exponential growth curve. That is why i enrolled in a Bachelor of Computer Science Program in the University of Huzhou in China,  that i completed successfully. The next years of my life have been devoted to implementing what i learn everyday to solve problems and bring innovative technological solutions in my home country's corporate field. I publish my public work on this profile, so stay tuned...you can also link up with me through LinkedIn or X if you want to know about a specific matter. Thanks ! 
+Hello world, Elvis here ! I publish my public work on this profile, so stay tuned...you can also link up with me through X or discord if you want to connect. Thanks ! 
 
 
 ### 🧰 Languages and Tools
