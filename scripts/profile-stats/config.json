@@ -1,0 +1,18 @@
+{
+  "username": "MrOlmb",
+  "stats_title": "Elvis's GitHub Stats",
+  "langs_title": "Most Used Languages",
+  "langs_count": 8,
+  "hide_languages": ["C#", "PowerShell", "Mathematica", "Ruby", "Objective-C", "Objective-C++", "Cuda"],
+  "exclude_repos": [],
+  "theme": {
+    "bg": "#20232a",
+    "title": "#61dafb",
+    "text": "#ffffff",
+    "muted": "#9aa4b1",
+    "icon": "#61dafb",
+    "border": "#61dafb",
+    "track": "#2d313a"
+  },
+  "hide_border": true
+}

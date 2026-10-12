@@ -1,0 +1,45 @@
+# Régénère les cartes de stats du profil (profile/*.svg) sans service externe.
+# Secret requis : PROFILE_STATS_TOKEN (PAT classique : repo, read:user, read:org).
+name: Profile stats
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # tous les jours à 04:17 UTC
+  workflow_dispatch:         # lancement manuel depuis l'onglet Actions
+  push:                      # régénère dès que le générateur ou sa config change
+    branches: [main]
+    paths:
+      - "scripts/profile-stats/**"
+      - ".github/workflows/profile-stats.yml"
+
+permissions:
+  contents: write            # uniquement pour committer les SVG
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 (épinglé par SHA)
+
+      - name: Générer les cartes
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: node scripts/profile-stats/generate.mjs
+
+      - name: Committer si changement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "chore(profile): mise à jour des cartes de stats"
+            git push
+          fi
