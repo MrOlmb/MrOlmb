@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="235" viewBox="0 0 400 235" role="img" aria-labelledby="title">
+  <title id="title">Elvis&#39;s GitHub Stats</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #61dafb; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ffffff; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ffffff; }
+    .lang  { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ffffff; }
+    .note  { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9aa4b1; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="399" height="234" fill="#20232a"/>
+  <text x="25" y="35" class="title">Elvis&#39;s GitHub Stats</text>
+  <g transform="translate(25, 64)">
+    <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
+    <text x="22" y="0" class="label">Total contributions:</text>
+    <text x="350" y="0" class="value" text-anchor="end">341</text>
+  </g>
+  <g transform="translate(25, 87)">
+    <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
+    <text x="22" y="0" class="label">Commits:</text>
+    <text x="350" y="0" class="value" text-anchor="end">320</text>
+  </g>
+  <g transform="translate(25, 110)">
+    <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
+    <text x="22" y="0" class="label">Pull requests:</text>
+    <text x="350" y="0" class="value" text-anchor="end">4</text>
+  </g>
+  <g transform="translate(25, 133)">
+    <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
+    <text x="22" y="0" class="label">Issues:</text>
+    <text x="350" y="0" class="value" text-anchor="end">1</text>
+  </g>
+  <g transform="translate(25, 156)">
+    <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
+    <text x="22" y="0" class="label">Code reviews:</text>
+    <text x="350" y="0" class="value" text-anchor="end">0</text>
+  </g>
+  <g transform="translate(25, 179)">
+    <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
+    <text x="22" y="0" class="label">External repos contributed to:</text>
+    <text x="350" y="0" class="value" text-anchor="end">9</text>
+  </g>
+  <g transform="translate(25, 202)">
+    <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
+    <text x="22" y="0" class="label">Stars earned:</text>
+    <text x="350" y="0" class="value" text-anchor="end">3</text>
+  </g>
+  <text x="25" y="221" class="note">Includes private &amp; external repositories</text>
+</svg>
