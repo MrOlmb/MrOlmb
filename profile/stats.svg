@@ -12,17 +12,17 @@
   <g transform="translate(25, 64)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Total contributions:</text>
-    <text x="350" y="0" class="value" text-anchor="end">447</text>
+    <text x="350" y="0" class="value" text-anchor="end">451</text>
   </g>
   <g transform="translate(25, 87)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Commits:</text>
-    <text x="350" y="0" class="value" text-anchor="end">426</text>
+    <text x="350" y="0" class="value" text-anchor="end">425</text>
   </g>
   <g transform="translate(25, 110)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Pull requests:</text>
-    <text x="350" y="0" class="value" text-anchor="end">4</text>
+    <text x="350" y="0" class="value" text-anchor="end">9</text>
   </g>
   <g transform="translate(25, 133)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
@@ -37,7 +37,7 @@
   <g transform="translate(25, 179)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">External repos contributed to:</text>
-    <text x="350" y="0" class="value" text-anchor="end">9</text>
+    <text x="350" y="0" class="value" text-anchor="end">12</text>
   </g>
   <g transform="translate(25, 202)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
