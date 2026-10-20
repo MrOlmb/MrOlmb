@@ -12,7 +12,7 @@
   <g transform="translate(25, 64)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Total contributions:</text>
-    <text x="350" y="0" class="value" text-anchor="end">456</text>
+    <text x="350" y="0" class="value" text-anchor="end">458</text>
   </g>
   <g transform="translate(25, 87)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
@@ -32,7 +32,7 @@
   <g transform="translate(25, 156)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Code reviews:</text>
-    <text x="350" y="0" class="value" text-anchor="end">0</text>
+    <text x="350" y="0" class="value" text-anchor="end">2</text>
   </g>
   <g transform="translate(25, 179)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
