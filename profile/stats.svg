@@ -12,7 +12,7 @@
   <g transform="translate(25, 64)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Total contributions:</text>
-    <text x="350" y="0" class="value" text-anchor="end">472</text>
+    <text x="350" y="0" class="value" text-anchor="end">478</text>
   </g>
   <g transform="translate(25, 87)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
@@ -22,7 +22,7 @@
   <g transform="translate(25, 110)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Pull requests:</text>
-    <text x="350" y="0" class="value" text-anchor="end">15</text>
+    <text x="350" y="0" class="value" text-anchor="end">16</text>
   </g>
   <g transform="translate(25, 133)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
@@ -32,7 +32,7 @@
   <g transform="translate(25, 156)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>
     <text x="22" y="0" class="label">Code reviews:</text>
-    <text x="350" y="0" class="value" text-anchor="end">5</text>
+    <text x="350" y="0" class="value" text-anchor="end">10</text>
   </g>
   <g transform="translate(25, 179)">
     <circle cx="6" cy="-5" r="5" fill="#61dafb"/>

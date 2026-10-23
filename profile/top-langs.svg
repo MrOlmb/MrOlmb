@@ -12,26 +12,26 @@
   <defs><clipPath id="bar"><rect x="25" y="52" width="270" height="8" rx="4"/></clipPath></defs>
   <rect x="25" y="52" width="270" height="8" rx="4" fill="#2d313a"/>
   <g clip-path="url(#bar)">
-    <rect x="25.00" y="52" width="167.54" height="8" fill="#f1e05a"/>
-    <rect x="192.54" y="52" width="61.53" height="8" fill="#3178c6"/>
-    <rect x="254.07" y="52" width="19.83" height="8" fill="#3572A5"/>
-    <rect x="273.90" y="52" width="9.24" height="8" fill="#e34c26"/>
-    <rect x="283.14" y="52" width="6.67" height="8" fill="#663399"/>
-    <rect x="289.81" y="52" width="2.92" height="8" fill="#00B4AB"/>
-    <rect x="292.73" y="52" width="2.00" height="8" fill="#89e051"/>
-    <rect x="294.73" y="52" width="0.27" height="8" fill="#A97BFF"/>
+    <rect x="25.00" y="52" width="167.16" height="8" fill="#f1e05a"/>
+    <rect x="192.16" y="52" width="61.35" height="8" fill="#3178c6"/>
+    <rect x="253.51" y="52" width="20.36" height="8" fill="#3572A5"/>
+    <rect x="273.87" y="52" width="9.21" height="8" fill="#e34c26"/>
+    <rect x="283.08" y="52" width="6.74" height="8" fill="#663399"/>
+    <rect x="289.83" y="52" width="2.91" height="8" fill="#00B4AB"/>
+    <rect x="292.74" y="52" width="2.00" height="8" fill="#89e051"/>
+    <rect x="294.74" y="52" width="0.26" height="8" fill="#A97BFF"/>
   </g>
   <g transform="translate(25, 86)">
     <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-    <text x="16" y="0" class="lang">JavaScript 62.1%</text>
+    <text x="16" y="0" class="lang">JavaScript 61.9%</text>
   </g>
   <g transform="translate(160, 86)">
     <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
-    <text x="16" y="0" class="lang">TypeScript 22.8%</text>
+    <text x="16" y="0" class="lang">TypeScript 22.7%</text>
   </g>
   <g transform="translate(25, 108)">
     <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
-    <text x="16" y="0" class="lang">Python 7.3%</text>
+    <text x="16" y="0" class="lang">Python 7.5%</text>
   </g>
   <g transform="translate(160, 108)">
     <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
