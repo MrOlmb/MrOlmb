@@ -12,18 +12,18 @@
   <defs><clipPath id="bar"><rect x="25" y="52" width="270" height="8" rx="4"/></clipPath></defs>
   <rect x="25" y="52" width="270" height="8" rx="4" fill="#2d313a"/>
   <g clip-path="url(#bar)">
-    <rect x="25.00" y="52" width="128.25" height="8" fill="#f1e05a"/>
-    <rect x="153.25" y="52" width="85.51" height="8" fill="#3178c6"/>
-    <rect x="238.76" y="52" width="21.96" height="8" fill="#e34c26"/>
-    <rect x="260.72" y="52" width="16.01" height="8" fill="#3572A5"/>
-    <rect x="276.73" y="52" width="5.86" height="8" fill="#336790"/>
-    <rect x="282.59" y="52" width="5.20" height="8" fill="#663399"/>
-    <rect x="287.79" y="52" width="4.99" height="8" fill="#c6538c"/>
+    <rect x="25.00" y="52" width="127.97" height="8" fill="#f1e05a"/>
+    <rect x="152.97" y="52" width="85.68" height="8" fill="#3178c6"/>
+    <rect x="238.65" y="52" width="22.05" height="8" fill="#e34c26"/>
+    <rect x="260.70" y="52" width="15.97" height="8" fill="#3572A5"/>
+    <rect x="276.67" y="52" width="5.90" height="8" fill="#336790"/>
+    <rect x="282.57" y="52" width="5.19" height="8" fill="#663399"/>
+    <rect x="287.76" y="52" width="5.03" height="8" fill="#c6538c"/>
     <rect x="292.78" y="52" width="2.22" height="8" fill="#00B4AB"/>
   </g>
   <g transform="translate(25, 86)">
     <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-    <text x="16" y="0" class="lang">JavaScript 47.5%</text>
+    <text x="16" y="0" class="lang">JavaScript 47.4%</text>
   </g>
   <g transform="translate(160, 86)">
     <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
@@ -31,7 +31,7 @@
   </g>
   <g transform="translate(25, 108)">
     <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
-    <text x="16" y="0" class="lang">HTML 8.1%</text>
+    <text x="16" y="0" class="lang">HTML 8.2%</text>
   </g>
   <g transform="translate(160, 108)">
     <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
@@ -47,7 +47,7 @@
   </g>
   <g transform="translate(25, 152)">
     <circle cx="5" cy="-4" r="5" fill="#c6538c"/>
-    <text x="16" y="0" class="lang">SCSS 1.8%</text>
+    <text x="16" y="0" class="lang">SCSS 1.9%</text>
   </g>
   <g transform="translate(160, 152)">
     <circle cx="5" cy="-4" r="5" fill="#00B4AB"/>
